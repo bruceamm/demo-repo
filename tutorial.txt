@@ -1,0 +1,7 @@
+write code
+
+# git add
+# git commit -m
+# git push origin main (or other location)
+
+# if you are not the owner of the code, make pull request
